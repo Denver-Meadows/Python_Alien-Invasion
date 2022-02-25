@@ -1,6 +1,6 @@
 # Alien Invasion
 
-A standard alien invasion game with some custom images to add some fun 😉
+A standard alien invasion game.
 
 ## Technologies used to build this site:
 
